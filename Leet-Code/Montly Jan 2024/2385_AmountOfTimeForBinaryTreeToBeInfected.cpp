@@ -6,15 +6,17 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
+    int max_=0;
+    int max_1=0;
+    void ToGraph(map<int, vector<int>>& adj, TreeNode* root) {
 
-    void ToGraph(map <int ,vector<int>>& adj,TreeNode* root){
-
-        if(root == NULL) {
+        if (root == NULL) {
             return;
         }
         if (root->left != NULL) {
@@ -28,49 +30,46 @@ public:
             adj[root->right->val].push_back(root->val);
             ToGraph(adj, root->right);
         }
-        
     }
-    
-    
- void bfs(int node, unordered_map<int, bool> &visited, vector<int> &ans,vector<vector<int>> &adj){
-        queue<int> q;
-        
 
-        q.push(node);
+    void dfs(int node, unordered_map<int, bool>& visited, vector<int>& ans,
+             map<int,vector<int>>& adj) {
         visited[node] = true;
-
-        while (!q.empty())
-        {
-            int front = q.front();
-            ans.push_back(front);
-            q.pop();
-            for (auto j : adj[front])
-            {
-                if (!visited[j])
-                {
-                    q.push(j);
-                    visited[j] = true;
-                }
+        ans.push_back(node);
+        for (auto j : adj[node]) {
+            if (!visited[j]) {
+                max_=max(max_,++max_1);
+                dfs(j, visited, ans, adj);
+                max_=max(max_,--max_1);
             }
         }
     }
-    
+
     int amountOfTime(TreeNode* root, int start) {
 
+        map<int, vector<int>> adj;
+        ToGraph(adj, root);
+
+        // for(auto i: adj ){
+        //     cout<<i.first<<" ";
+        //     for(auto j: i.second){
+        //         cout<<j;
+        //     }
+        //     cout<<endl;
+        // }
+
+        vector<int> ans;
+        unordered_map<int, bool> visited;
+
+        if (!visited[start]){
+            dfs(start, visited, ans,adj);
+        }
         
-        map <int ,vector<int>> adj;
-        ToGraph(adj,root);
-
-
-
-        for(auto i: adj ){
-            cout<<i.first<<" ";
-            for(auto j: i.second){
-                cout<<j;
-            }
-            cout<<endl;
+        for (int i = 0; i < ans.size(); i++)
+        {
+            cout << ans[i] << " ";
         }
 
-        return 55;
+        return max_;
     }
 };
