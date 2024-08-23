@@ -25,7 +25,19 @@ public:
         if(n==2){
             return max(nums[1],nums[0]);
         }
-        vector<int> dp(n,-1);
-        return solve(n-1,nums,dp);
+        vector<int> dp(n,0);
+        // return solve(n-1,nums,dp);
+
+
+        //Tabluation
+        dp[0]=nums[0];
+
+        for(int i=1;i<n;i++){
+            int take = nums[i];
+            if(i>1) take+= dp[i-2];
+            int notTake = dp[i-1];
+            dp[i]=max(take,notTake);
+        }
+        return dp[n-1];
     }
 };
