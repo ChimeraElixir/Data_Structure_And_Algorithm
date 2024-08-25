@@ -7,9 +7,9 @@ public:
         }
 
         if(m<0 || n<0){
-            return 1e9;
+            return 40001;
         }
-        
+
         if(dp[m][n]!=-1) return dp[m][n];
         
         int up = + grid[m][n] + solve(m-1,n,grid,dp) ;
