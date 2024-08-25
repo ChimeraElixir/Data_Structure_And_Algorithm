@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
