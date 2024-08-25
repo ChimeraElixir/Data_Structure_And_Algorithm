@@ -24,10 +24,10 @@ public:
                 s=mid+1;
             }
             else{
-                e=mid;
+                e=mid-1;
             }
 
         }
-        return e;
+        return s;
     }
 };
