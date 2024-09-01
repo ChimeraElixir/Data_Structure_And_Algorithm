@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-project-employees-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1390-average-selling-price) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
