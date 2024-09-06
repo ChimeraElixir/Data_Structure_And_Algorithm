@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
