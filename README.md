@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
