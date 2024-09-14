@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
