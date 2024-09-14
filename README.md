@@ -46,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
