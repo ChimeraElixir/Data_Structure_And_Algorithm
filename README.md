@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
+| [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Data Stream
 |  |
 | ------- |
