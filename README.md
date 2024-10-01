@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
