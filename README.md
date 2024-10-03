@@ -159,15 +159,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
