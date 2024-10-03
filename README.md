@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,12 +159,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
