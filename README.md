@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Binary Search
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 ## Graph
