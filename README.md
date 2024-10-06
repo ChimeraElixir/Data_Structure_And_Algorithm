@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 ## Depth-First Search
 |  |
@@ -196,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
