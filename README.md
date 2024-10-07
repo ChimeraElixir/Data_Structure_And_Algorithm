@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
