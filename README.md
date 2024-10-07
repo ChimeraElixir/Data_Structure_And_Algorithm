@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
 ## Simulation
 |  |
 | ------- |
