@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 ## String
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 ## Depth-First Search
@@ -218,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
