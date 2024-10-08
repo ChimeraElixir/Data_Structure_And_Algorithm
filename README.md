@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
