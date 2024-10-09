@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
