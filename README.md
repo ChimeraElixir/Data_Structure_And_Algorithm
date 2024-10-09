@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
