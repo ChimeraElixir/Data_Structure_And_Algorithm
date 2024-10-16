@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
