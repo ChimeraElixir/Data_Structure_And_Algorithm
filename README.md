@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
