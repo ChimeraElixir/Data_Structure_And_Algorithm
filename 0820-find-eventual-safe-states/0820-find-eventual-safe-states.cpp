@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+
+        //TOPO SORT
+
         int n = graph.size();
 
         vector<vector<int>> adjRev(n);
