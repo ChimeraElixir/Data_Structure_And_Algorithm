@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
