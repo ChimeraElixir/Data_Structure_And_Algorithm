@@ -1,6 +1,9 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        if (find(wordList.begin(),wordList.end(),endWord) == wordList.end()) {
+            return 0;
+        }
         queue<pair<string,int>> q;
         set<string> s(wordList.begin(),wordList.end());
         int n = beginWord.size();
