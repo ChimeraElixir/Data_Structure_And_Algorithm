@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 ## Union Find
 |  |
