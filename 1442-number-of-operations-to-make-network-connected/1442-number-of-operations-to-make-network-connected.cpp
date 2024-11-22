@@ -44,12 +44,15 @@ public:
 
         DisjointSet ds(n);
 
-        // for(int i=0;i<n;i++){
-            for(auto j :connections){
-                // cout<<j[0]<<endl;
-                ds.unionBySize(j[0],j[1]);
+        int countExtra = 0 ;
+
+        for(auto j :connections){
+            if(ds.findParent(j[0])==ds.findParent(j[1])){
+                countExtra++;
             }
-        // }
+            ds.unionBySize(j[0],j[1]);
+        }
+
 
         int components = 0;
         for(int i=0;i<n;i++){
@@ -58,9 +61,9 @@ public:
             }
         }
 
-        int extra = ds.getExtra();
+        // int extra = ds.getExtra();
 
-        if(extra >= components-1){
+        if(countExtra >= components-1){
             return components-1;
         }
         return -1;
