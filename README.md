@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
