@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 ## String
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 ## Depth-First Search
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
@@ -259,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
