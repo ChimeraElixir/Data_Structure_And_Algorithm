@@ -5,7 +5,8 @@ public:
             return 0;
         }
         queue<pair<string,int>> q;
-        set<string> s(wordList.begin(),wordList.end());
+        unordered_set<string> s(wordList.begin(),wordList.end());
+        s.erase(beginWord);
         int n = beginWord.size();
 
         q.push({beginWord,1});
