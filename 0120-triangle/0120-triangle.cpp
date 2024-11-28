@@ -15,8 +15,10 @@ public:
     }
 
     int minimumTotal(vector<vector<int>>& triangle) {
+        //******* Memoization ********//
+        
         // int mini = INT_MAX;
-        int n = triangle.size();
+        // int n = triangle.size();
         // vector<vector<int>> dp(n,vector<int>(n,-1));
        
         // for(int i=0;i<n;i++){
@@ -26,6 +28,8 @@ public:
         // return mini;
 
 
+        //****** Tabluation *******//
+        int n = triangle.size();
         vector<vector<int>> dp(n,vector<int>(n,1e5));
         dp[0][0]=triangle[0][0];
 
