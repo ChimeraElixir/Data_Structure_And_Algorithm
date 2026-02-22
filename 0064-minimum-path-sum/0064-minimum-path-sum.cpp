@@ -1,54 +1,39 @@
 class Solution {
 public:
-    int solve(int m,int n,vector<vector<int>>& grid,vector<vector<int>> &dp){
+    int solve(vector<vector<int>> &dp,vector<int>&dx,vector<int>& dy,int x, int y,int m, int n,vector<vector<int>>& grid){
 
-        if(m==0 && n==0){
-            return grid[0][0];
+        if (x == m-1 && y == n-1){
+            return grid[m-1][n-1];
         }
 
-        if(m<0 || n<0){
-            return 40001;
+        if(dp[x][y]!= -1){
+            return dp[x][y];
         }
 
-        if(dp[m][n]!=-1) return dp[m][n];
-        
-        int up = + grid[m][n] + solve(m-1,n,grid,dp) ;
-        int left = grid[m][n] + solve(m,n-1,grid,dp) ;
+        int ways = INT_MAX;
 
-        return dp[m][n] = min(up,left);
 
+        for(int i = 0;i<2;i++){
+            int ndx = x + dx[i];
+            int ndy = y + dy[i];
+
+            if(ndx>=0 && ndx<m && ndy>=0 && ndy<n){
+                ways = min(ways, grid[x][y] + solve(dp,dx,dy,ndx,ndy,m,n,grid)) ;
+            }
+        }
+
+        return dp[x][y] = ways;
     }
-
     int minPathSum(vector<vector<int>>& grid) {
 
-        //MEMOZIATION
-        
         int m = grid.size();
         int n = grid[0].size();
-        // vector<vector<int>> dp (m,vector<int> (n,-1));
-        // return solve(m-1,n-1,grid,dp);
-
-        //TABULATION
-
-        vector<vector<int>> dp (m,vector<int> (n,40001));
-
-        dp[0][0]=grid[0][0];
-
-        for( int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-
-                int up = dp[i][j];
-                int left = dp[i][j];
-
-                if(i>0) up = dp[i-1][j]+grid[i][j];
-                if(j>0) left = dp[i][j-1]+grid[i][j];
-
-                dp[i][j]=min(up,left);
-            }
-
-        }
-        return dp[m-1][n-1];
 
 
+        vector<vector<int>> dp(m,vector<int>(n,-1));
+        vector<int> dx = {+1,0};
+        vector<int> dy = {0,+1};
+
+        return solve(dp,dx,dy,0,0,m,n,grid);
     }
 };
