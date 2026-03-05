@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
@@ -12,8 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
@@ -27,12 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0967-minimum-falling-path-sum) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0070-climbing-stairs) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
@@ -75,8 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0127-word-ladder) |
@@ -89,8 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0125-valid-palindrome) |
@@ -105,17 +105,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0062-unique-paths) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0063-unique-paths-ii) |
@@ -134,23 +134,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0162-find-peak-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1161-project-employees-i](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1390-average-selling-price) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0060-permutation-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0060-permutation-sequence) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
@@ -166,13 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0085-maximal-rectangle) |
@@ -184,8 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0042-trapping-rain-water) |
@@ -194,27 +194,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0402-remove-k-digits](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0402-remove-k-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/2032-largest-odd-number-in-string) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0937-online-stock-span](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0937-online-stock-span) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-rotate-string](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0812-rotate-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0242-valid-anagram) |
@@ -223,8 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0883-car-fleet) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0207-course-schedule) |
@@ -242,8 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0127-word-ladder](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
@@ -264,8 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0200-number-of-islands) |
@@ -279,8 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0547-number-of-provinces) |
@@ -289,36 +289,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0268-missing-number) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0169-majority-element) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0820-find-eventual-safe-states) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0744-network-delay-time](https://github.com/ChimeraElixir/Data_Structure_And_Algorithm/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
