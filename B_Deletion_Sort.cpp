@@ -45,25 +45,25 @@ int main() {
         }
         vector<pair<int,int>> v;
         int i=0;
-        bool flag =true;
         
         while(i<n){
-            int j=i;
+            int j=i+1;
             while(j<n && arr[j] > arr[i]){
                 j++;
             }
-            v.pb({arr[i],j-i});
+            v.pb({arr[j-1],j-i}); 
+            i=j;
         }
+        cout<<v.size()<<endl;
+        // int cnt = 0;
 
-        int cnt = 0;
+        // for(int i=0;i<v.size()-1;i++){
+        //     if(v[i].first > v[i+1].first){
+        //         cnt++;
+        //     }
+        // }
 
-        for(int i=0;i<v.size()-1;i++){
-            if(v[i].first > v[i+1].first){
-                cnt++;
-            }
-        }
-
-        cout<<cnt<<endl;
+        // cout<<cnt<<endl;
 
 
     }

@@ -37,35 +37,15 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        int n ;
-        cin>>n;
+        int n;
+        cin >> n;
         vector<int> arr(n);
-        for(auto &i:arr){
-            cin>>i;
+        for (auto &i : arr) {
+            cin >> i;
         }
-        vector<pair<int,int>> v;
-        int i=0;
-        bool flag =true;
+
         
-        while(i<n){
-            int j=i;
-            while(j<n && arr[j] > arr[i]){
-                j++;
-            }
-            v.pb({arr[i],j-i});
-        }
-
-        int cnt = 0;
-
-        for(int i=0;i<v.size()-1;i++){
-            if(v[i].first > v[i+1].first){
-                cnt++;
-            }
-        }
-
-        cout<<cnt<<endl;
-
-
+        
     }
     
     return 0;
