@@ -46,14 +46,14 @@ int main() {
         int temp = 0;
         for (int i = 0; i < n; i++) {
             if (s[i] == '*') {
-                temp = 0;
                 ans = max(ans, temp);
+                temp = 0;
             } else {
                 temp++;
             }
         }
         ans = max(ans, temp);
-        cout << ans/2 + ans%2 << "\n";
+        cout << (ans/2) + (ans%2) << "\n";
     }
     
     return 0;

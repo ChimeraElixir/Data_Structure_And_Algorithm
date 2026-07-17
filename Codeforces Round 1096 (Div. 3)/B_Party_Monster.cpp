@@ -38,27 +38,25 @@ int main() {
     cin >> t;
     while (t--) {
         int n;
-        cin >> n;
-        vector<int> arr(n);
-        for (auto &i : arr) {
-            cin >> i;
-        }
-        ll sum = 0;
-        bool flag = true;
-        for(ll i =0;i<n;i++){
-            sum+=arr[i];
-            ll need = (i+1) * (i+2) / 2;
-            if(sum < need ){
-                flag =false;
+        cin>>n;
+        string s;
+        cin>>s;
+        int ctn_open = 0;
+        int ctn_close = 0;
+        for(auto i:s){
+            if(i == '('){
+                ctn_open++;
+            }
+            else{
+                ctn_close++;
             }
         }
-        if(flag){
+        if(ctn_close == ctn_open){
             cout<<"YES"<<endl;
         }
         else{
             cout<<"NO"<<endl;
         }
-        
     }
     
     return 0;

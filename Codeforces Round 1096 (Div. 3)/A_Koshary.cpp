@@ -37,28 +37,14 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        int n;
-        cin >> n;
-        vector<int> arr(n);
-        for (auto &i : arr) {
-            cin >> i;
-        }
-        ll sum = 0;
-        bool flag = true;
-        for(ll i =0;i<n;i++){
-            sum+=arr[i];
-            ll need = (i+1) * (i+2) / 2;
-            if(sum < need ){
-                flag =false;
-            }
-        }
-        if(flag){
+        int x,y;
+        cin>>x>>y;
+        if((x%2) + (y%2) <2 ){
             cout<<"YES"<<endl;
         }
         else{
             cout<<"NO"<<endl;
         }
-        
     }
     
     return 0;
