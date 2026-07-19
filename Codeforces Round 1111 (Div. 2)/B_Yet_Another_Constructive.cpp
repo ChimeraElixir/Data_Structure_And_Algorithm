@@ -37,7 +37,34 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        
+        int n,k,m;
+        cin>>n>>k>>m;
+        vector<int> arr(n);
+        for(auto &i:arr){
+            cin>>i;
+        }
+
+        int start = 0 ;
+        int end = 1;
+        // int sum = 0;
+
+        int sum = accumulate(arr.begin(), arr.end(), k);
+        cout<<sum<<endl;
+        // for(int end=0;end<n;end++){
+        //     if(end-start+1<k){
+        //         sum+=arr[end];
+        //     }
+        //     else{
+        //         break;
+        //     }
+        // }
+
+        // while (end<n){
+        //     if(end-start+1 < k){
+        //         sum+= arr[end];
+        //     }
+
+        // }
     }
     
     return 0;
