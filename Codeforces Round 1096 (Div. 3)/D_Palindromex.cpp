@@ -38,26 +38,8 @@ int main() {
     cin >> t;
     while (t--) {
         int n;
-        cin >> n;
-        vector<ll> arr(n);
-        for (auto &i : arr) {
-            cin >> i;
-        }
-        ll sum = 0;
-        bool flag = true;
-        for(ll i =0;i<n;i++){
-            sum+=arr[i];
-            ll need = (i+1) * (i+2) / 2;
-            if(sum < need ){
-                flag =false;
-            }
-        }
-        if(flag){
-            cout<<"YES"<<endl;
-        }
-        else{
-            cout<<"NO"<<endl;
-        }
+        cin>>n;
+        vector<int> arr;
         
     }
     
